@@ -1,0 +1,26 @@
+Spaans met Sofía & Lola — aparte kinderapp voor GitHub Pages
+
+Dit pakket heeft GEEN submappen. Illustraties, spelcode en proefaudio staan
+al in index.html. Je hoeft geen aparte afbeeldingen- of audiomap te maken.
+
+1. Pak dit ZIP-bestand uit.
+2. Maak op GitHub een NIEUWE repository, bijvoorbeeld Sofia-Lola.
+   Gebruik niet Ons-gezin. Upload alle uitgepakte bestanden in de hoofdmap.
+   Upload niet het ZIP-bestand zelf. index.html moet direct in de hoofdmap staan.
+3. Open Settings > Pages. Kies Deploy from a branch, main, /(root), Save.
+   GitHub toont daarna het werkelijke website-adres.
+
+Voor gratis GitHub Pages moet de repository openbaar zijn.
+De lespagina's zijn dan ook openbaar. Voortgang blijft lokaal in je browser.
+Er worden geen kinderaccounts aangemaakt en geen voortgang naar GitHub gestuurd.
+
+Open de NIEUWE link op de tablet en voeg hem aan het startscherm toe via
+het browsermenu. De oorspronkelijke tabletknop blijft naar het oude adres wijzen.
+Voortgang verhuist niet vanzelf tussen website-adressen: download eerst
+via Voor mem een back-up en herstel die op de nieuwe website.
+
+Deze versie heeft één gezamenlijke voortgang. Oude kinderback-ups blijven
+bruikbaar. Alle twaalf lessen hebben woorden, korte verhalen, zoeken en memory.
+Audio is beschikbaar bij de zes woorden uit les 1; overige woordaudio ontbreekt nog.
+De zes woordvoorbeelden gebruiken een nieuwe synthetische kinderstem (Qwen3-TTS).
+Het is geen opname van een echt kind; de klank en het Spaanse accent blijven proefaudio.
